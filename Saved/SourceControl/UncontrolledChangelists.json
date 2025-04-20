@@ -5,6 +5,8 @@
 			"guid": "00000000000000000000000000000000",
 			"description": "Default Uncontrolled Changelist",
 			"files": [
+				"C:/Users/kevin/AstroFrog/Content/StarterContent/Audio/Collapse01.uasset",
+				"C:/Users/kevin/AstroFrog/Content/ThirdPerson/Blueprints/Widgets/WBP_Restart.uasset",
 				"/Users/Monzon/Documents/Unreal Projects/AstroFrog/Content/StarterContent/Shapes/Shape_Wedge_A.uasset",
 				"/Users/Monzon/Documents/Unreal Projects/AstroFrog/Content/ThirdPerson/Blueprints/BP_ThirdPersonCharacter.uasset",
 				"/Users/Monzon/Documents/Unreal Projects/AstroFrog/Content/Characters/Mannequin_UE4/Meshes/SK_Mannequin_Skeleton.uasset",
